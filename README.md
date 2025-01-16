@@ -3,9 +3,9 @@ This is a repository hosting the materials from our recent study on how staff an
 
 This includes:
 1. Survey resources:
-- A copy of our survey on attitudes towards responsible AI and NLP
+-- A copy of our survey on attitudes towards responsible AI and NLP
 
-3. Workshop resources:
+2. Workshop resources:
 - Master design document for the workshop
 - Workshop scripts and slides, to be used by facilitators
 - Printable definition cards for activity 1
