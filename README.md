@@ -3,7 +3,7 @@ This is a repository hosting the materials from our recent study on how staff an
 
 This includes:
 1. Survey resources:
-- A copy of our survey on attitudes towards responsible AI and NLP
+- A copy of our survey questions on attitudes towards responsible AI and NLP
 - A link to the Microsoft forms survey template which can be duplicated
 
 2. Workshop resources:
